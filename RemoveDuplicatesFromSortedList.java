@@ -17,7 +17,7 @@
  *     }
  * }
  */
-public class Solution {
+public class RemoveDuplicatesFromSortedList {
     public ListNode deleteDuplicates(ListNode head) {
         ListNode current = head;
         
